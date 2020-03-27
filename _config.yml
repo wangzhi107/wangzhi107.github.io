@@ -46,14 +46,11 @@ paginate_path: /page:num/
 
 # Build settings
 markdown: kramdown
-plugins_dir:
-  - jekyll-paginate
-  - jekyll-sitemap
+plugins_dir: [jekyll-paginate, jekyll-sitemap]
 
-gems:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-plugins
+gems: [jekyll-paginate, jekyll-sitemap]
+
+plugins: [jekyll-paginate, jekyll-sitemap]
 
 include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
