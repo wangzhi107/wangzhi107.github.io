@@ -23,7 +23,7 @@ layout: default
       <footer class="post_footer cf">
         <div class="post_share">
           <span>分享:</span>
-          <a href="http://service.weibo.com/share/share.php?appkey=&title=&url={{ site.url }}{{ page.url }}&pic=&searchPic=false&style=simple" title="分享到微博" rel="nofollow" target="_blank"><i class="fa fa-weibo" aria-hidden="true"></i></a>
+		  <a href="http://service.weibo.com/share/share.php?appkey=&title={{page.title}}&url={{ site.url }}{{ page.url }}&pic={{ site.url }}/assets/img/{{ page.img }}&searchPic=false&style=simple" title="分享到微博" rel="nofollow" target="_blank"><i class="fa fa-weibo" aria-hidden="true"></i></a>
           <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="分享到微信朋友圈" rel="nofollow" target="_blank"><i class="fa fa-comments-o" aria-hidden="true"></i></a>
           <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="分享到QQ空间" rel="nofollow" target="_blank"><i class="fa fa-qq" aria-hidden="true"></i></a>
         </div>
