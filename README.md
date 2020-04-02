@@ -1,6 +1,6 @@
 # This is a responsive jekyll theme
 
-王祉 - Web界的小学生
+王祉 - Web小学生
 
 ## Demo
 
