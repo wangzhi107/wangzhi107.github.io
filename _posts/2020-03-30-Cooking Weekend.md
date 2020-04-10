@@ -10,7 +10,7 @@ tag: [美食, 烹饪]
 <div align="center">
 	<img src="https://wangzhi107.github.io/assets/img/Pizza_1.jpg"/>
 </div>
-<p style="text-indent:2em">披萨没想不错，就是面饼厚了些（再次陷入加水加面怪圈）。</p>
+<p style="text-indent:2em">披萨卖相不错，就是面饼厚了些（再次陷入加水加面怪圈）。</p>
 <div align="center">
 	<img src="https://wangzhi107.github.io/assets/img/Pizza_0.jpg"/>
 </div>
